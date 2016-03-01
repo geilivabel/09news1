@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CZHeadLineController.h
 //  09news1
 //
 //  Created by apple on 16/3/1.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CZHeadLineController : UICollectionViewController
 
 @end
-
